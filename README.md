@@ -1,2 +1,4 @@
 # APPLICATION-OF-LARGE-LANGUAGE-MODELS-MEASURING-SIMILARITY-OF-BILINGUAL-TEXT
-Nghiên cứu khoa học sinh viên 2024-2025
+# Nghiên cứu khoa học sinh viên 2024-2025
+
+Đề tài "“ỨNG DỤNG MÔ HÌNH NGÔN NGỮ LỚN ĐO LƯỜNG ĐỘ TƯƠNG TỰ CỦA VĂN BẢN SONG NGỮ VIỆT – TRUNG", tập trung vào xây dựng và đánh giá các kỹ thuật xử lý văn bản song ngữ Việt–Trung. Tập dữ liệu bao gồm các cặp câu song song được thu thập từ các nguồn song ngữ thực tế, bao gồm nhiều lĩnh vực ngôn ngữ khác nhau. Dữ liệu đã được tiền xử lý thông qua chuẩn hóa, làm sạch token, căn chỉnh câu và kiểm tra tính nhất quán của ngôn ngữ. Báo cáo phân tích độ tương đồng văn bản, chất lượng căn chỉnh và các đặc điểm thống kê như phân phối token và mật độ từ vựng. Nhiều phương pháp NLP đã được áp dụng, bao gồm TF-IDF, độ tương đồng cosine, căn chỉnh dịch máy và mô hình dựa trên Transformer. Công trình này cũng đánh giá chất lượng dữ liệu song ngữ bằng cách sử dụng các số liệu định lượng và đề xuất các cải tiến cho các tác vụ Việt–Trung có nguồn lực thấp.
